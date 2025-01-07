@@ -1,7 +1,4 @@
-from turtledemo.nim import SCREENWIDTH
-
 import arcade
-from arcade.examples.array_backed_grid import SCREEN_HEIGHT, SCREEN_TITLE
 
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
